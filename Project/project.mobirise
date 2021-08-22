@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "mbrsiteDomain": "mkjjyw9fcw",
+    "mbrsiteDomain": "th6ysu0pjv",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -313,13 +313,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": "true",
             "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/fallin-albumart-2-1400x1400.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -359,7 +359,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/green%20card%20love%20-%20albumart-2000x2000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -375,7 +375,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline display-4\" href=\"https://youtu.be/-kQdMRtSBYw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MUSIC VIDEO</a> ",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#073b4c",
-                "textTitle": "Views -<br> If Rappers Were Honest"
+                "textTitle": "Views<br>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fallin-albumart-2-1400x1400.jpg",
