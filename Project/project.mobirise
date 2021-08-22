@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "mbrsiteDomain": "2oejmk3xrh",
+    "mbrsiteDomain": "mkjjyw9fcw",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -319,7 +319,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/fallin-albumart-2-1400x1400.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -333,7 +333,7 @@
                 "contentAlign": "right",
                 "text": "Music Video for Bhuwa is now available on YouTube.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline display-4\" href=\"https://youtu.be/LLgO2hseAB8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MUSIC VIDEO</a> ",
-                "overlayOpacity": "0.8",
+                "overlayOpacity": "0.7",
                 "overlayColor": "#073b4c",
                 "textTitle": "NEW RELEASE!"
               },
@@ -353,7 +353,7 @@
                 "contentAlign": "center",
                 "text": "EJ Station crosses 150k subscribers on YouTube!",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline display-4\" href=\"https://www.youtube.com/ejstation\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EJ STATION</a> ",
-                "overlayOpacity": "0.9",
+                "overlayOpacity": "0.7",
                 "overlayColor": "#232323",
                 "textTitle": "Thank You"
               },
@@ -373,13 +373,13 @@
                 "contentAlign": "right",
                 "text": "250k plus streams and counting.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline display-4\" href=\"https://youtu.be/-kQdMRtSBYw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MUSIC VIDEO</a> ",
-                "overlayOpacity": "0.8",
+                "overlayOpacity": "0.7",
                 "overlayColor": "#073b4c",
                 "textTitle": "Views -<br> If Rappers Were Honest"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fallin-albumart-2-1400x1400.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
